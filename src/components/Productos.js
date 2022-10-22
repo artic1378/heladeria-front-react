@@ -49,7 +49,7 @@ function Productos() {
                             {producto.descripcion}
                         </Card.Text>
                         <Button style={{ backgroundColor:`#1E7548`,color:`white`,borderColor:`#1E7548` }}
-                                href={`https://wa.me/595985381901?text=${`Hola me interesa el producto `+producto.producto+`favor contacteme por favor. Saludos`}`
+                                href={`https://wa.me/595992424757?text=${`Hola me interesa el producto `+producto.producto+`favor contacteme por favor. Saludos`}`
                                     }
                                 variant="primary">
                                     Solicitar producto
