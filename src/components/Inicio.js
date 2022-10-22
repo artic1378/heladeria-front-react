@@ -8,7 +8,7 @@ export const Inicio = () => {
                 <Form>
                 <h2>Bienvenido a nuestra website</h2>
                 <br/>
-                <p>Texto x</p>
+                <p>Aqui podras encontrar informacion de contacto y todo lo referente a nuestros productos. Se bienvenido. Saludos </p>
                 </Form>
             </div>
     );
