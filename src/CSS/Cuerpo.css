@@ -1,0 +1,13 @@
+.cuerpo {
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCF0D5;
+  }
+  h2 {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
