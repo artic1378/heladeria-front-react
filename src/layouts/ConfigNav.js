@@ -7,7 +7,7 @@ import SobreNosotros from '../components/SobreNosotros';
 
 import Navbar from './NavBar';
 
-function NavigatorBar() {
+function ConfigNav() {
 
   return (
     <>
@@ -30,4 +30,4 @@ function NavigatorBar() {
   )
 }
 
-export default NavigatorBar;
+export default ConfigNav;
